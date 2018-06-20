@@ -1,0 +1,5 @@
+#PROFILE MESSAGES#
+PROFILE.MESSAGE: "&aYour Profile has loaded into the network!"
+
+#COMMAND CONFIGURATIONS#
+COMMAND.CLEAR.MESSAGE: "&6%player_name%&e has cleared there &6Inventory&e."
