@@ -1,7 +1,0 @@
-name: Commons
-main: gg.kisruimc.Commons
-version: 1.0
-author: ManLikeGucci
-commands:
-  vanish:
-    aliases: [v]
